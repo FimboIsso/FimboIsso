@@ -9,7 +9,7 @@ I'm always eager to connect with fellow developers, explore new projects, and co
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-justinfimbo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/justin-fimbo-9b178b150/)](https://www.linkedin.com/in/justin-fimbo-9b178b150/)
-[![Gmail Badge](https://img.shields.io/badge/-brunokambere@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fimbo.isso@gmail.com)](mailto:fimbo.isso@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-fimbo.isso@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fimbo.isso@gmail.com)](mailto:fimbo.isso@gmail.com)
 [![Upwork Badge](https://img.shields.io/badge/-JustinFimbo-c14e8?style=flat-square&logo=Upwork&logoColor=white&link=https://www.upwork.com/freelancers/~015ba1909bede8c331?viewMode=1)](https://www.upwork.com/freelancers/~015ba1909bede8c331?viewMode=1)
 
 ![Visitor Count](https://profile-counter.glitch.me/{FimboIsso}/count.svg)
