@@ -3,30 +3,45 @@
 
 I'm Justin Fimbo, a passionate full-stack developer from Beni, North Kivu, in the Democratic Republic of the Congo. I'm driven by a deep-seated desire to harness the power of technology to solve real-world problems and make a positive impact on society.
 
-## 🚀 Get In touche: 
+## 🚀 Get In touche:
 
 I'm always eager to connect with fellow developers, explore new projects, and contribute my skills to making a positive impact. Feel free to reach out to me via email or connect with me on social media.
 
-<p align="center">
-<a href="https://www.linkedin.com/in/justin-fimbo-9b178b150/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/LinkedIn_Logo_2013_%282%29.svg/2880px-LinkedIn_Logo_2013_%282%29.svg.png" width="100px" alt="LindedIn"></a>
-<!-- <a href="mailto:fimbo.isso@gmail.com"><img src="https://poser.pugx.org/laravel/framework/d/total.svg" alt="Total Downloads"></a> -->
-</p>
 
+[![Linkedin Badge](https://img.shields.io/badge/-justinfimbo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/justin-fimbo-9b178b150/)](https://www.linkedin.com/in/justin-fimbo-9b178b150/)
+[![Gmail Badge](https://img.shields.io/badge/-brunokambere@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fimbo.isso@gmail.com)](mailto:fimbo.isso@gmail.com)
+[![Upwork Badge](https://img.shields.io/badge/-JustinFimbo-c14e8?style=flat-square&logo=Upwork&logoColor=white&link=https://www.upwork.com/freelancers/~015ba1909bede8c331?viewMode=1)](https://www.upwork.com/freelancers/~015ba1909bede8c331?viewMode=1)
 
-## 🧠 Technologies
+![Visitor Count](https://profile-counter.glitch.me/{FimboIsso}/count.svg)
 
-My tech stack includes:
+## ⚡ Technologies
 
-- **Front-end:** HTML, CSS, JavaScript, Vue.js
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![JavaScript](https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=Laravel)
+![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
+![Android](https://img.shields.io/badge/Android-05150C?style=flat-square&logo=android)
+![PHP](https://img.shields.io/badge/PHP-black?style=flat-square&logo=php)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
+![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=jetbrains)
+![Postman](https://img.shields.io/badge/Postman-black?style=flat-square&logo=postman)
+![Google Chrome](https://img.shields.io/badge/Chrome-black?style=flat-square&logo=google-chrome)
 
-- **Back-end:** Java, Python, PHP, Laravel, Django
+<a href="#">
+      <img width="380" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fimboisso&theme=merko&show_icons=true&layout=compact&langs_count=8&card_width=350&card_height=180"/>
+</a>
 
-- **Mobile:** Android (Java), Flutter
+<a href="#">
+      <img width="380" height="180" src="https://github-readme-stats.vercel.app/api?username=fimboisso&theme=merko&show_icons=true&layout=compact&date_format=M%20j%5B%2C%20Y%5D&card_height=180"/>
+</a>
 
-- **DevOps:** Git, Docker, Kubernetes, Jenkins
-
-
-## 📈 Passion for Learning
-
-I'm an avid learner, constantly seeking new challenges and opportunities to expand my skillset. I'm passionate about staying abreast of emerging technologies and trends in the ever-evolving world of software development.
-
+ <a href="#">
+     <img width="380" height="180" src="http://github-readme-streak-stats.herokuapp.com?user=fimboisso&theme=merko&date_format=M%20j%5B%2C%20Y%5D&card_height=180"/>
+ </a>
